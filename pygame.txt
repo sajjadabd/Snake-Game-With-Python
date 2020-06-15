@@ -1,0 +1,17 @@
+I have faced this error on a Windows 64 bit. I have uninstalled my 
+python 3.4.1
+
+and I have installed: 
+
+
+python-3.4.1.amd64.msi 
+or
+python-3.4.3.amd64.msi
+
+then 
+
+pygame-1.9.2a0.win-amd64-py3.4.exe
+or
+pygame-1.9.2a0-hg_8d9e6a1f2635%2B.win-amd64-py3.4
+
+from link mentioned above. And it worked.
